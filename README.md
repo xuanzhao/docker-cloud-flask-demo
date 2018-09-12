@@ -2,6 +2,8 @@
 
 Flask starter project... https://cloud.docker.com
 
+for trigger auto build cloud.
+
 ## Quick Start
 
 ### Basics
